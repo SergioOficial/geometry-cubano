@@ -1,14 +1,14 @@
 ![Uploading menu2.jpg…]()
-# 🐺 Kakashi-IAWaBot-s
+# 🐺 Momo Ayase
 
 Bot multifunción inspirado en la estética y personalidad de un ninja legendario del anime.  
-Kakashi IA es un bot avanzado con sistemas sociales, economía, gacha, descargas multimedia, utilidades, moderación avanzada y sistema de IA con personalidad configurable.
+Ayase IA es un bot avanzado con sistemas sociales, economía, gacha, descargas multimedia, utilidades, moderación avanzada y sistema de IA con personalidad configurable.
 
 ---
 
 ## 🌌 Descripción General
 
-Kakashi IA es un bot diseñado para comunidades y grupos que buscan:
+Ayase IA es un bot diseñado para comunidades y grupos que buscan:
 
 - Sistema económico completo  
 - Sistema Gacha coleccionable  
